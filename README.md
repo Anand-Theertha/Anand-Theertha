@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Theertha</h1>
-<h3 align="center">Engineering graduate working as a Frontend Developer with expertise in HTML, CSS, JS, and ReactJS. Getting 1% better each day.</h3>
+<h3 align="center">Engineering graduate working as a Frontend Developer with expertise in HTML, CSS, JavaScript, and ReactJS. Getting 1% better each day.</h3>
 
 - 🔭 I’m currently working on [Voice Powered Budget Tracker](https://github.com/Anand-Theertha/Voice-Powered-Budget-Tracker)
 
