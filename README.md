@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anand Theertha</h1>
 <h3 align="center">Engineering graduate working as a Frontend Developer with expertise in HTML, CSS, JavaScript, and React. Getting 1% better each day.</h3>
 
-- 🔭 I’m currently working on [Budget Tracker](https://github.com/Anand-Theertha/Voice-Powered-Budget-Tracker)
+- 🔭 I’m currently working on [Voice Powered Budget Tracker](https://github.com/Anand-Theertha/Voice-Powered-Budget-Tracker)
 
-- 🌱 I’m currently learning **NextJS, GraphQL, NOdeJS**
+- 🌱 I’m currently learning **NextJS, GraphQL, NodeJS**
 
-- 💬 Ask me about **ReactJS**
+- 💬 You can talk to me about: **Anything related to Frontend Web Development,or Software Development in general. Offtopic, I'd love to talk about ancient wonders and timeless mysteries**
 
-- 📫 How to reach me **anandtheerthav3@gmail.com**
+- 📫 Here's my email to react out to if your proivding opportunities: **anandtheerthav3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
-- ⚡ Other contributions **CSSBATTLES and Frontendmentor**
+- ⚡ I also contribute on: **(SSBattles)[https://cssbattle.dev/player/JTKvx3UXKjX29j9jp8dRTSAikaj2] and (FrontEnd Mentor)[https://www.frontendmentor.io/profile/Anand-Theertha]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
