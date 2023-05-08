@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anand Theertha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Engineering graduate working as a Frontend Developer with expertise in HTML, CSS, JavaScript, and React. Getting 1% better each day.</h3>
+
+- 🔭 I’m currently working on [Budget Tracker](https://github.com/Anand-Theertha/Voice-Powered-Budget-Tracker)
+
+- 🌱 I’m currently learning **NextJS, GraphQL, NOdeJS**
+
+- 💬 Ask me about **ReactJS**
+
+- 📫 How to reach me **anandtheerthav3@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+
+- ⚡ Other contributions **CSSBATTLES and Frontendmentor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-theertha&show_icons=true&locale=en" alt="anand-theertha" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-theertha&" alt="anand-theertha" /></p>
