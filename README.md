@@ -9,7 +9,7 @@
 
 - 📫 Here's my email to react out to if your proivding opportunities: **anandtheerthav3@gmail.com**
 
-- 📄 Know about my past experiences [My Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my past experiences [My Resume](https://drive.google.com/file/d/188tfvlz9er0n31nRd79Y9CoToujVHZqn/view?usp=sharing)
 
 - ⚡ I also contribute on: [CSSBattles](https://cssbattle.dev/player/JTKvx3UXKjX29j9jp8dRTSAikaj2) and [FrontEnd Mentor](https://www.frontendmentor.io/profile/Anand-Theertha)
 
