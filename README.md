@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NextJS, GraphQL, NodeJS**
 
-- 💬 You can talk to me about: **Anything related to Frontend Web Development,or Software Development in general. Offtopic, I'd love to talk about ancient wonders and timeless mysteries**
+- 💬 You can talk to me about: **Anything related to Frontend Web Development, or Software Development in general. Offtopic, I'd love to talk about ancient wonders and timeless mysteries**
 
-- 📫 Here's my email to react out to if your proivding opportunities: **anandtheerthav3@gmail.com**
+- 📫 Here's my email to reach out to if you are providing opportunities: **anandtheerthav3@gmail.com**
 
 - 📄 Know about my past experiences [My Resume](https://drive.google.com/file/d/188tfvlz9er0n31nRd79Y9CoToujVHZqn/view?usp=sharing)
 
